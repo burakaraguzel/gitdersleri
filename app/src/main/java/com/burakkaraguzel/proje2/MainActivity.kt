@@ -34,4 +34,5 @@ class MainActivity : AppCompatActivity() {
         val intent=Intent(this,MisafirOlarakDevamEtSayfasi::class.java)
         startActivity(intent)
     }
+    println("burak")
 }
